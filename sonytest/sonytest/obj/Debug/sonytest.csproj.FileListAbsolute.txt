@@ -1,0 +1,6 @@
+\\edis.tatasteel.com\Home\AMS1\B076903\My Documents\Visual Studio 2015\Projects\sonytest\sonytest\bin\Debug\sonytest.exe.config
+\\edis.tatasteel.com\Home\AMS1\B076903\My Documents\Visual Studio 2015\Projects\sonytest\sonytest\bin\Debug\sonytest.exe
+\\edis.tatasteel.com\Home\AMS1\B076903\My Documents\Visual Studio 2015\Projects\sonytest\sonytest\bin\Debug\sonytest.pdb
+\\edis.tatasteel.com\Home\AMS1\B076903\My Documents\Visual Studio 2015\Projects\sonytest\sonytest\obj\Debug\sonytest.csprojResolveAssemblyReference.cache
+\\edis.tatasteel.com\Home\AMS1\B076903\My Documents\Visual Studio 2015\Projects\sonytest\sonytest\obj\Debug\sonytest.exe
+\\edis.tatasteel.com\Home\AMS1\B076903\My Documents\Visual Studio 2015\Projects\sonytest\sonytest\obj\Debug\sonytest.pdb
