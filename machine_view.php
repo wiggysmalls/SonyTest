@@ -1,5 +1,6 @@
 <h1>Machine Status</h1>
 <?
+//***Requires extension SQL Anywhere***
 //Establish coneccection to SQL and execute querey
 $con = sybase_connect("mySQL_Server", "apps", "iamtheapp");
 $sqlqry = "select machine, state from PlantProcess.dbo.machineLiveState order by machine";
